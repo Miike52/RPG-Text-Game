@@ -138,7 +138,7 @@ int main() {
     const string artifactName = "Ancient Crystal";
     const string artifactLocation = "Temple of Ancients";
 
-    // Monster names inspired by "Lord of the Rings"
+    // Monster names (inspired by LOTR)
     vector<string> monsterNames = {
         "Gorgoth the Fierce",
         "Tharok the Cunning",
@@ -222,3 +222,4 @@ int main() {
     return 0;
 }
 
+// need to add more delay between attacks / create tables to make it look visually better
